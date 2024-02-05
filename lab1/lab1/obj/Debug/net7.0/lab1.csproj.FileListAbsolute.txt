@@ -1,0 +1,43 @@
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\bin\Debug\net7.0\lab1.exe
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\bin\Debug\net7.0\lab1.deps.json
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.pdb
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+C:\Users\Lumen\Desktop\Study\4_sem\visual_prog\lab1\obj\Debug\net7.0\ref\lab1.dll
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\bin\Debug\net7.0\lab1.exe
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\bin\Debug\net7.0\lab1.deps.json
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.pdb
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+C:\Users\readg\Documents\Projects\Visual 1 part\lab1\visual_prog\lab1\obj\Debug\net7.0\ref\lab1.dll
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\bin\Debug\net7.0\lab1.exe
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\bin\Debug\net7.0\lab1.deps.json
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.sourcelink.json
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.pdb
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab1\lab1\obj\Debug\net7.0\ref\lab1.dll
