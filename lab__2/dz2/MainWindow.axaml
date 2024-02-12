@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="400"
+        x:Class="dz2.MainWindow"
+        Title="dz2">
+    <Window.Styles>
+        <Style Selector="Button">
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="VerticalAlignment" Value="Stretch"/>
+        </Style>
+    </Window.Styles>
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Button Content="Khaki" Click="Button_Click" Tag="0" Background = "Khaki"/>
+            <Button Content="Red" Click="Button_Click" Tag="1" Background = "Red"/>
+            <Button Content="MediumVioletRed" Click="Button_Click" Tag="2" Background = "MediumVioletRed"/>
+            <Button Content="Bisque" Click="Button_Click" Tag="3" Background = "Bisque"/>
+            <Button Content="LemonChiffon" Click="Button_Click" Tag="4" Background = "LemonChiffon"/>
+            <Button Content="PowderBlue" Click="Button_Click" Tag="5" Background = "PowderBlue"/>
+            <Button Content="MintCream" Click="Button_Click" Tag="6" Background = "MintCream"/>
+            <Button Content="Maroon" Click="Button_Click" Tag="7" Background = "Maroon"/>
+            <Button Content="RosyBrown" Click="Button_Click" Tag="8" Background = "RosyBrown"/>
+            <Button Content="LightPink" Click="Button_Click" Tag="9" Background = "LightPink"/>
+        </StackPanel>
+
+        <GridSplitter Grid.Column="1" Width="5" Background="Khaki" VerticalAlignment="Stretch"/>
+
+        <Rectangle x:Name="ColorRectangle" Grid.Column="2" Fill="Khaki"/>
+    </Grid>
+</Window>

@@ -17,11 +17,10 @@ Console.WriteLine();
 
 public class Account
 {
-    private int _balance;
+    private int _balance = 0;
     private List<INotifyer> _notifiers = new();
 
-    public Account() { }
-
+    public Account() : this(0) { }
     public Account(int balance)
     {
         _balance = balance;
