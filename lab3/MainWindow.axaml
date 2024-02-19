@@ -1,0 +1,60 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="lab3.MainWindow"
+        Title="lab3">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock x:Name="DisplayTextBlock" Grid.Row="0" Margin="10" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <Button Content="7" Click="Button_Click" Grid.Column="0"/>
+            <Button Content="8" Click="Button_Click" Grid.Column="1"/>
+            <Button Content="9" Click="Button_Click" Grid.Column="2"/>
+            <Button Content="/" Click="Button_Click" Grid.Column="3"/>
+            
+            <Button Content="4" Click="Button_Click" Grid.Column="0" Grid.Row="1"/>
+            <Button Content="5" Click="Button_Click" Grid.Column="1" Grid.Row="1"/>
+            <Button Content="6" Click="Button_Click" Grid.Column="2" Grid.Row="1"/>
+            <Button Content="*" Click="Button_Click" Grid.Column="3" Grid.Row="1"/>
+            
+            <Button Content="1" Click="Button_Click" Grid.Column="0" Grid.Row="2"/>
+            <Button Content="2" Click="Button_Click" Grid.Column="1" Grid.Row="2"/>
+            <Button Content="3" Click="Button_Click" Grid.Column="2" Grid.Row="2"/>
+            <Button Content="-" Click="Button_Click" Grid.Column="3" Grid.Row="2"/>
+            
+            <Button Content="0" Click="Button_Click" Grid.Column="0" Grid.Row="3"/>
+            <Button Content="." Click="Button_Click" Grid.Column="1" Grid.Row="3"/>
+            <Button Content="=" Click="Button_Click" Grid.Column="2" Grid.Row="3"/>
+            <Button Content="+" Click="Button_Click" Grid.Column="3" Grid.Row="3"/>
+            
+            <Button Content="C" Click="Button_Click" Grid.Column="0" Grid.Row="4"/>
+            <Button Content="<-" Click="Button_Click" Grid.Column="1" Grid.Row="4"/>
+            <Button Content="!" Click="Button_Click" Grid.Column="2" Grid.Row="4"/>
+            <Button Content="mod" Click="Button_Click" Grid.Column="3" Grid.Row="4"/>
+            
+            <Button Content="x^y" Click="Button_Click" Grid.Column="0" Grid.Row="5"/>
+            <Button Content="lg" Click="Button_Click" Grid.Column="1" Grid.Row="5"/>
+            <Button Content="ln" Click="Button_Click" Grid.Column="2" Grid.Row="5"/>
+            <Button Content="sin" Click="Button_Click" Grid.Column="3" Grid.Row="5"/>
+            
+            <Button Content="cos" Click="Button_Click" Grid.Column="0" Grid.Row="6"/>
+            <Button Content="tan" Click="Button_Click" Grid.Column="1" Grid.Row="6"/>
+            <Button Content="floor" Click="Button_Click" Grid.Column="2" Grid.Row="6"/>
+            <Button Content="ceil" Click="Button_Click" Grid.Column="3" Grid.Row="6"/>
+        </Grid>
+    </Grid>
+</Window>

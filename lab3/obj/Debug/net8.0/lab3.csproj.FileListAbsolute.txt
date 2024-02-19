@@ -1,0 +1,8 @@
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.csproj.AssemblyReference.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\Avalonia\resources
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\readg\Documents\Projects\Visual_prog\lab3\obj\Debug\net8.0\lab3.sourcelink.json
