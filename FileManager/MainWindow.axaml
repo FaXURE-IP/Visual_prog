@@ -1,0 +1,15 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="using:FileExplorer"
+        x:Class="FileExplorer.MainWindow"
+        Title="File Explorer" Width="800" Height="600">
+    <Grid>
+        <ListBox x:Name="listBox">
+            <ListBox.ItemTemplate>
+                <DataTemplate x:DataType="local:FileSystemItem">
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>        
+    </Grid>
+</Window>
