@@ -3,13 +3,29 @@
         xmlns:local="using:FileExplorer"
         x:Class="FileExplorer.MainWindow"
         Title="File Explorer" Width="800" Height="600">
-    <Grid>
-        <ListBox x:Name="listBox">
-            <ListBox.ItemTemplate>
-                <DataTemplate x:DataType="local:FileSystemItem">
-                    <TextBlock Text="{Binding Name}"/>
-                </DataTemplate>
-            </ListBox.ItemTemplate>
-        </ListBox>        
-    </Grid>
+        <Window.Resources>
+            <local:PathConverter x:Key="PathConverter" />
+        </Window.Resources>
+    
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+    
+            <ListBox x:Name="listBox" Grid.Column="0" Margin="10">
+                <ListBox.ItemTemplate>
+                    <DataTemplate x:DataType="local:FileSystemItem">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Width="16" Height="16" Margin="0,0,5,0"
+                                Source="{Binding IconPath, Converter={StaticResource PathConverter}}" />
+    
+                            <TextBlock Text="{Binding Name}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+    
+            <Image x:Name="imageView" Grid.Column="1" Margin="10" />
+        </Grid>
 </Window>

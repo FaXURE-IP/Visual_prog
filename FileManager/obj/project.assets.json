@@ -4493,11 +4493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\FileManager\\FileManager.csproj",
+      "projectUniqueName": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\FileManager\\FileManager.csproj",
       "projectName": "FileManager",
-      "projectPath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\FileManager\\FileManager.csproj",
+      "projectPath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\FileManager\\FileManager.csproj",
       "packagesPath": "C:\\Users\\readg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\FileManager\\obj\\",
+      "outputPath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\FileManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\readg\\AppData\\Roaming\\NuGet\\NuGet.Config"
