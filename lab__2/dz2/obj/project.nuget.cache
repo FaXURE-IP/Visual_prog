@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDgcXWvTNM2ZegyYSfWKieRH83t13aA4X2rn1Pxj8yBIxHLGVvzLdSiLBjMSHRG0mMA04WHxoAAGYlevpnIqHQ==",
+  "dgSpecHash": "OYo4wDaduPcdEBz6its1dp2cPn12BdfgiTEufuVbCMFbFjBfiVomNrbPuv2wW5NS3RGmP50kMd4sMWny1wkJ2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\readg\\Documents\\Projects\\Visual_prog\\lab__2\\dz2\\dz2.csproj",
+  "projectFilePath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\lab__2\\dz2\\dz2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\readg\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

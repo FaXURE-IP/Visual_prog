@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nY49nx1t0Le7AuQdkpD487E3S43f9GfeRQP4COjVl1qOCCni1LXOX/JfYGwsZNPUtM7lax9dmeKDF4k723zf8w==",
+  "dgSpecHash": "LCXOPlECRPJF7ku+oBISzA3Jqg3Au1s/AUrQpFmpP8U5Gm7MC5QD7PvKCVyrsJ6lnFqdrjnqJf4Gxk8jNn28Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\readg\\Documents\\Projects\\Visual_prog\\lab1\\lab1\\lab1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\readg\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\readg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\readg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\readg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vbQTxWK+6laEoaPKCka0OHL2P8foSX6ZziWBU9biCtU49C8qHgH70Bv6i73UZldxPGbjDHRs7BzYfjWOZ2FgMg==",
+  "dgSpecHash": "CXBiEL7hIvtER0cKDcaaATPOQdYe4kHayHVIlqlzNbwOy2Bm7/v9MWGtGCxsNcXsl7ypDoEwhUEHoz9tm5Tvjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\WeatherViewer\\WeatherViewer.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\readg\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\readg\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",

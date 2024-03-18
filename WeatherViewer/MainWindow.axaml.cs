@@ -1,6 +1,7 @@
-using Avalonia;
 using Avalonia.Controls;
+using Avalonia.Layout;
 using Avalonia.Markup.Xaml;
+using Avalonia.Media.Imaging;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -10,16 +11,18 @@ namespace WeatherViewer
     public partial class MainWindow : Window
     {
         private const string OpenWeatherApiKey = "1020ea0fb7e3d1d7433b1abcd7347850";
-        private const string OpenWeatherGeoApiUrl = "http://api.openweathermap.org/geo/1.0/direct";
         private const string OpenWeatherApiUrl = "https://api.openweathermap.org/data/2.5/forecast";
+        private const string OpenWeatherImageBaseUrl = "https://openweathermap.org/img/wn/";
 
         private TextBlock _weatherInfoTextBlock;
+        private StackPanel _weatherForecastPanel;
         private TextBox _cityTextBox;
 
         public MainWindow()
         {
             InitializeComponent();
             _weatherInfoTextBlock = this.FindControl<TextBlock>("WeatherInfoTextBlock");
+            _weatherForecastPanel = this.FindControl<StackPanel>("WeatherForecastPanel");
             _cityTextBox = this.FindControl<TextBox>("CityTextBox");
             _cityTextBox.Text = "Novosibirsk"; // Default city
             UpdateWeatherInfo();
@@ -29,14 +32,15 @@ namespace WeatherViewer
         {
             try
             {
+                // Очищаем старую информацию перед обновлением
+                _weatherForecastPanel.Children.Clear();
+
                 var cityCoordinates = await GetCityCoordinatesAsync(_cityTextBox.Text);
-                var weatherData = await GetWeatherDataAsync(cityCoordinates);
-                // Update UI with weather information
-                _weatherInfoTextBlock.Text = $"Weather in {_cityTextBox.Text}: {weatherData}";
+                var weatherData = await GetWeatherForecastAsync(cityCoordinates);
+                _weatherInfoTextBlock.Text = $"Weather forecast for {_cityTextBox.Text}:\n{weatherData}";
             }
             catch (Exception ex)
             {
-                // Handle exceptions (e.g., network issues, API errors)
                 _weatherInfoTextBlock.Text = $"Error: {ex.Message}";
             }
         }
@@ -45,56 +49,72 @@ namespace WeatherViewer
         {
             using (var httpClient = new HttpClient())
             {
-                var apiUrl = $"{OpenWeatherGeoApiUrl}?q={cityName}&limit=5&appid={OpenWeatherApiKey}";
+                var apiUrl = $"http://api.openweathermap.org/geo/1.0/direct?q={cityName}&limit=5&appid={OpenWeatherApiKey}";
                 var response = await httpClient.GetAsync(apiUrl);
                 response.EnsureSuccessStatusCode();
                 var responseBody = await response.Content.ReadAsStringAsync();
-                // Process responseBody to extract city coordinates
-                // For simplicity, just returning the response for now
                 return responseBody;
             }
         }
 
-        private async Task<string> GetWeatherDataAsync(string cityCoordinates)
+        private async Task<string> GetWeatherForecastAsync(string cityCoordinates)
         {
-            // Распарсим JSON-ответ от API OpenWeather и извлечем нужные данные о погоде
             var weatherInfo = System.Text.Json.JsonDocument.Parse(cityCoordinates);
-
-            // Извлекаем координаты города
             var latitude = weatherInfo.RootElement[0].GetProperty("lat").GetDouble();
             var longitude = weatherInfo.RootElement[0].GetProperty("lon").GetDouble();
 
-            // Формируем URL для запроса погодных данных
             string apiUrl = $"{OpenWeatherApiUrl}?lat={latitude}&lon={longitude}&appid={OpenWeatherApiKey}";
 
             using (var httpClient = new HttpClient())
             {
-                // Отправляем GET-запрос к API OpenWeather
                 var response = await httpClient.GetAsync(apiUrl);
                 response.EnsureSuccessStatusCode();
-
-                // Читаем ответ в виде строки
                 string responseBody = await response.Content.ReadAsStringAsync();
-
-                // Распарсим JSON-ответ от API OpenWeather и извлечем нужные данные о погоде
                 var weatherData = System.Text.Json.JsonDocument.Parse(responseBody);
+                for (int i = 0; i <= 4; i++)
+                {
+                    DateTime forecastDate = DateTime.Now.AddDays(i);
+                    var weatherDescription = weatherData.RootElement.GetProperty("list")[i * 8].GetProperty("weather")[0].GetProperty("description").GetString();
+                    var temperatureKelvin = weatherData.RootElement.GetProperty("list")[i * 8].GetProperty("main").GetProperty("temp").GetDouble();
+                    var temperatureCelsius = temperatureKelvin - 273.15;
+                    var windSpeed = weatherData.RootElement.GetProperty("list")[i * 8].GetProperty("wind").GetProperty("speed").GetDouble();
+                    var weatherIcon = weatherData.RootElement.GetProperty("list")[i * 8].GetProperty("weather")[0].GetProperty("icon").GetString();
+                    var imageUrl = $"{OpenWeatherImageBaseUrl}{weatherIcon}@2x.png";
+                    var image = await LoadImageAsync(imageUrl);
+                    if (image != null)
+                    {
+                        var forecastPanel = new StackPanel { Orientation = Orientation.Horizontal, Margin = new Avalonia.Thickness(0, 5, 0, 0) };
+                        forecastPanel.Children.Add(new TextBlock { Text = $"{forecastDate.ToString("dd MMMM")}:", Width = 100 });
+                        forecastPanel.Children.Add(new TextBlock { Text = $"{weatherDescription}\nTemperature: {temperatureCelsius:F1}°C\nWind Speed: {windSpeed} m/s", Width = 200 });
+                        forecastPanel.Children.Add(new Image { Source = image, Width = 50, Height = 50, Margin = new Avalonia.Thickness(5) });
+                        _weatherForecastPanel.Children.Add(forecastPanel);
+                    }
+                }
 
-                // Извлекаем описание погоды, температуру и скорость ветра
-                var weatherDescription = weatherData.RootElement.GetProperty("list")[0].GetProperty("weather")[0].GetProperty("description").GetString();
+                return "";
+            }
+        }
 
-                // Температура в Кельвинах
-                var temperatureKelvin = weatherData.RootElement.GetProperty("list")[0].GetProperty("main").GetProperty("temp").GetDouble();
 
-                // Преобразуем температуру в градусы Цельсия
-                var temperatureCelsius = temperatureKelvin - 273.15;
 
-                // Скорость ветра
-                var windSpeed = weatherData.RootElement.GetProperty("list")[0].GetProperty("wind").GetProperty("speed").GetDouble();
 
-                // Формируем строку с информацией о погоде
-                string weatherDataString = $"Weather: {weatherDescription}, Temperature: {temperatureCelsius:F1}°C, Wind Speed: {windSpeed} m/s";
 
-                return weatherDataString;
+        private async Task<Bitmap?> LoadImageAsync(string imageUrl)
+        {
+            try
+            {
+                using (var httpClient = new HttpClient())
+                {
+                    var response = await httpClient.GetAsync(imageUrl);
+                    response.EnsureSuccessStatusCode();
+                    var stream = await response.Content.ReadAsStreamAsync();
+                    return new Bitmap(stream);
+                }
+            }
+            catch (Exception)
+            {
+                // Если не удается загрузить изображение, вернуть null
+                return null;
             }
         }
 

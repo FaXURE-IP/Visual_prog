@@ -130,3 +130,4 @@ C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\WeatherViewer\obj\De
 C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\WeatherViewer\obj\Debug\net8.0\WeatherV.21672D54.Up2Date
 C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\WeatherViewer\obj\Debug\net8.0\WeatherViewer.genruntimeconfig.cache
 C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\WeatherViewer\obj\Debug\net8.0\ref\WeatherViewer.dll
+C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\WeatherViewer\bin\Debug\net8.0\System.Reactive.dll

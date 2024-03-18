@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8hewXCvu/wFa+Rj/fqh1y2uLYgt9Fi2Stdlbuw8Fxn5LxQws/7TGjPoNr2uWVPP+W2pN9IFeWfpDadshPLBoPQ==",
+  "dgSpecHash": "SnjhxhIhdCfMc+bhvZ6z8qVgOTBJfyOsRxkaJl4tiS1cd+4ueo9yYtNOtNua33f/th8QhBY4x9JjSLA/N6xr2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\readg\\Documents\\Projects\\Visual_prog\\AvaloniaCalculator\\AvaloniaCalculator.csproj",
+  "projectFilePath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\AvaloniaCalculator\\AvaloniaCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\readg\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\readg\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

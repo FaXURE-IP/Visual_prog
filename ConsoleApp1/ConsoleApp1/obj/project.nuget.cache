@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2yxSqfXCLSs3lVJuCuOcA8PnAvYIIN3M01e6jyIlEQT+E1tEnugOYyaDnhLKZL3TdJkmJU27h/ikzQ2Yus+Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\readg\\OneDrive\\Рабочий стол\\Visual_prog\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\readg\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
