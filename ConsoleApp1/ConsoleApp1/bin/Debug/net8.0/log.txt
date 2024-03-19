@@ -1,3 +1,3 @@
-Change Type: Add, New Items: System.Collections.Specialized.SingleItemReadOnlyList, Old Items: 
-Change Type: Add, New Items: System.Collections.Specialized.SingleItemReadOnlyList, Old Items: 
-Change Type: Remove, New Items: , Old Items: System.Collections.Specialized.SingleItemReadOnlyList
+19.03.2024 12:42:13: Change Type: Add, New Items Count: 1, Old Items Count: 
+19.03.2024 12:42:13: Change Type: Add, New Items Count: 1, Old Items Count: 
+19.03.2024 12:42:13: Change Type: Remove, New Items Count: , Old Items Count: 1

@@ -1,46 +1,55 @@
 ﻿using System;
 using System.Collections.ObjectModel;
-using System.IO;
-using System.Reactive.Linq;
 using System.Collections.Specialized;
+using System.IO;
+using System.Reactive.Subjects;
 
-class Program
+namespace CollectionObserverFactory
 {
-    static void Main(string[] args)
+    // Фабрика для создания объекта IObservable<NotifyCollectionChangedEventArgs> из коллекции ObservableCollection
+    public static class CollectionObserverFactory
     {
-        var collection = new ObservableCollection<int>();
-        var factory = new CollectionEventFactory();
-        factory.GetEventStream(collection)
-               .Subscribe(args => LogChangesToFile(args, "log.txt"));
-        collection.Add(1);
-        collection.Add(2);
-        collection.Remove(1);
-
-        Console.WriteLine("Changes logged to log.txt");
+        public static IObservable<NotifyCollectionChangedEventArgs> CreateObserver(ObservableCollection<object> collection)
+        {
+            var subject = new Subject<NotifyCollectionChangedEventArgs>();
+            collection.CollectionChanged += (sender, args) => subject.OnNext(args);
+            return subject;
+        }
     }
 
-    static void LogChangesToFile(NotifyCollectionChangedEventArgs args, string filePath)
+    class Program
     {
-        using (StreamWriter writer = File.AppendText(filePath))
+        static void Main(string[] args)
         {
-            writer.WriteLine($"Change Type: {args.Action}, New Items: {string.Join(",", args.NewItems)}, Old Items: {string.Join(",", args.OldItems)}");
+            // Создание коллекции
+            var collection = new ObservableCollection<object>();
+
+            // Создание объекта наблюдателя
+            var observer = CollectionObserverFactory.CreateObserver(collection);
+
+            // Подписка на уведомления об изменениях и логирование в файл
+            observer.Subscribe(args =>
+            {
+                LogToFile($"Change Type: {args.Action}, New Items Count: {args.NewItems?.Count}, Old Items Count: {args.OldItems?.Count}");
+            });
+
+            // Пример изменений в коллекции
+            collection.Add("Item 1");
+            collection.Add("Item 2");
+            collection.RemoveAt(0);
+
+            // Задержка перед закрытием консоли
+            Console.ReadLine();
+        }
+
+        // Метод для логирования данных в файл
+        static void LogToFile(string message)
+        {
+            string filePath = "log.txt";
+            using (StreamWriter writer = File.AppendText(filePath))
+            {
+                writer.WriteLine($"{DateTime.Now}: {message}");
+            }
         }
     }
 }
-
-public class CollectionEventFactory
-{
-    public IObservable<NotifyCollectionChangedEventArgs> GetEventStream(ObservableCollection<int> collection)
-    {
-        return Observable.FromEvent<NotifyCollectionChangedEventHandler, NotifyCollectionChangedEventArgs>(
-            handler =>
-            {
-                NotifyCollectionChangedEventHandler wrappedHandler = (sender, args) => handler(args);
-                return wrappedHandler;
-            },
-            handler => collection.CollectionChanged += handler,
-            handler => collection.CollectionChanged -= handler
-        );
-    }
-}
-
