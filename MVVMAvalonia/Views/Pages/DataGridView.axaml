@@ -1,0 +1,30 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:local="clr-namespace:MVVMAvalonia.ViewModels.Pages"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 x:DataType="local:DataGridViewModel"
+             x:Class="MVVMAvalonia.Views.Pages.DataGridView">
+
+	<StackPanel>
+		<DataGrid Margin="10" ItemsSource="{Binding Users}" GridLinesVisibility="All" BorderThickness="1" BorderBrush="Gray">
+			<DataGrid.Columns>
+				<DataGridTextColumn Header="Id"  Binding="{Binding Id}"/>
+				<DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+				<DataGridTextColumn Header="User Name"  Binding="{Binding Username}"/>
+				<DataGridTextColumn Header="Email" Binding="{Binding Email}"/>
+				<DataGridTextColumn Header="Phone" Binding="{Binding Phone}"/>
+				<DataGridTextColumn Header="Website" Binding="{Binding Website}"/>
+				<DataGridTextColumn Header="City" Binding="{Binding Address.City}"/>
+				<DataGridTextColumn Header="Street"  Binding="{Binding Address.Street}"/>
+				<DataGridTextColumn Header="Suite" Binding="{Binding Address.Suite}"/>
+				<DataGridTextColumn Header="Zipcode" Binding="{Binding Address.Zipcode}"/>
+				<DataGridTextColumn Header="Geo.Lat" Binding="{Binding Address.Geo.Lat}"/>
+				<DataGridTextColumn Header="Geo.Lng" Binding="{Binding Address.Geo.Lng}"/>
+			</DataGrid.Columns>
+		</DataGrid>
+
+	</StackPanel>
+
+</UserControl>

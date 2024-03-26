@@ -1,0 +1,30 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVVMAvalonia
+build_property.ProjectDir = C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\MVVMAvalonia\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/readg/OneDrive/Рабочий стол/Visual_prog/MVVMAvalonia/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/readg/OneDrive/Рабочий стол/Visual_prog/MVVMAvalonia/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/readg/OneDrive/Рабочий стол/Visual_prog/MVVMAvalonia/Views/Pages/DataGridView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/readg/OneDrive/Рабочий стол/Visual_prog/MVVMAvalonia/Views/Pages/DataTreeView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
