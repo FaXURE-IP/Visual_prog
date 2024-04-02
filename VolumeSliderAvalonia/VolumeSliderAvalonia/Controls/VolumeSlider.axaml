@@ -1,0 +1,18 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="using:VolumeSliderAvalonia">
+  <Style Selector="local|VolumeSlider">
+    <Setter Property="Template">
+      <ControlTemplate>
+		  <StackPanel Margin="20">
+			  <TextBlock IsVisible="{TemplateBinding IsSliderVisible}" Text="{Binding VolumeLevel, RelativeSource={RelativeSource TemplatedParent}, StringFormat={}{0:F0}}"
+						  HorizontalAlignment="Center"/>
+			  
+			  <Grid IsVisible="{TemplateBinding IsSliderVisible}" ColumnDefinitions="*,Auto">
+				  <Slider x:Name="slider" Value="{Binding VolumeLevel, RelativeSource={RelativeSource TemplatedParent}, Mode=TwoWay}" Maximum="1" Minimum="0" />
+			  </Grid>
+		  </StackPanel>
+      </ControlTemplate>
+    </Setter>
+  </Style>
+</Styles>
