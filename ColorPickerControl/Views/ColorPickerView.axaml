@@ -1,0 +1,105 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:ColorPickerControl.ViewModels"
+	mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+	x:DataType="local:ColorPickerViewModel"
+	x:Class="ColorPickerControl.Views.ColorPickerView">
+
+	<Grid Background="Bisque">
+		<Grid ColumnDefinitions="0.5*,5, 0.5*">
+			<Grid Grid.Column="0">
+				<Grid ColumnDefinitions="0.2*,5,*">
+
+					<ListBox Grid.Column="0" Background="Bisque"
+						SelectedItem="{Binding SelectedAsset}" SelectionMode="Single"
+						ItemsSource="{Binding ColorAssets}">
+						<ListBox.ItemTemplate>
+							<DataTemplate>
+								<TextBlock Foreground="Black" Text="{Binding Header}" />
+							</DataTemplate>
+						</ListBox.ItemTemplate>
+					</ListBox>
+					<Grid Grid.Column="2" RowDefinitions="0.9*,0.1*">
+						<ContentControl Content="{Binding SelectedAsset}" Grid.Column="2"
+							VerticalAlignment="Center" HorizontalAlignment="Center">
+						</ContentControl>
+						<Grid Grid.Row="1" Background="Bisque">
+							<StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+								<Button Click="NewPaletteButtonClickHandler" Background="Green"
+									CornerRadius="20">
+									<TextBlock Foreground="Black" FontSize="20"
+										TextAlignment="Center">New Palette</TextBlock>
+								</Button>
+								<Button Click="DeletePaletteButtonClickHandler" Background="Red"
+									Margin="30,0,0,0" CornerRadius="20">
+									<TextBlock Foreground="Black" FontSize="20"
+										TextAlignment="Center">Delete Palette</TextBlock>
+								</Button>
+							</StackPanel>
+						</Grid>
+					</Grid>
+
+				</Grid>
+			</Grid>
+			<Grid Grid.Column="2">
+				<Grid RowDefinitions=" 0.35*,5,0.65*">
+					<Grid ColumnDefinitions="0.33*,5,0.33*,5,0.33*">
+						<Grid Background="Bisque" Grid.Row="0" Grid.Column="4">
+							<Grid RowDefinitions="*,Auto">
+								<Grid Grid.Row="0">
+									<StackPanel Margin="15,0,15,0" VerticalAlignment="Center">
+										<TextBox Name="RedValueTextBox"
+											KeyDown="TextBoxKeyPressedHandler" Margin="0,0,0,10"
+											Watermark="Red"></TextBox>
+										<TextBox Name="GreenValueTextBox"
+											KeyDown="TextBoxKeyPressedHandler" Margin="0,0,0,10"
+											Watermark="Green"></TextBox>
+										<TextBox Name="BlueValueTextBox"
+											KeyDown="TextBoxKeyPressedHandler" Margin="0,0,0,10"
+											Watermark="Blue"></TextBox>
+									</StackPanel>
+								</Grid>
+								<Grid Margin="0,0,0,20" Grid.Row="1">
+									<Button Click="GenerateColorClickHandler"
+										HorizontalAlignment="Center"
+										HorizontalContentAlignment="Center"
+										VerticalContentAlignment="Center" VerticalAlignment="Center"
+										CornerRadius="20">
+										<TextBlock Foreground="Black" FontSize="18"
+											Text="Generate Color"></TextBlock>
+									</Button>
+								</Grid>
+							</Grid>
+						</Grid>
+					</Grid>
+
+					<Grid Background="Bisque" Grid.Row="2">
+						<Grid ColumnDefinitions="0.5*,0.5*">
+							<Grid Grid.Column="0">
+								<Image HorizontalAlignment="Center" VerticalAlignment="Center"
+									Name="Palette" Width="250" Height="250"
+									Tapped="PaletteTappedHandler" Source="{Binding DrawingPalette}"></Image>
+							</Grid>
+							<Grid Grid.Column="1">
+								<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+									<TextBlock Foreground="Black" FontSize="20">Color:</TextBlock>
+									<Rectangle Fill="{Binding SelectedColor}" Width="180"
+										Height="180"></Rectangle>
+									<Button Click="AddToPalleteButtonClickHandler" Margin="0,10,0,0"
+										HorizontalAlignment="Center" VerticalAlignment="Center"
+										CornerRadius="15">
+										<TextBlock Foreground="Black" FontSize="20"
+											Text="Add to Palette"></TextBlock>
+									</Button>
+								</StackPanel>
+							</Grid>
+						</Grid>
+					</Grid>
+				</Grid>
+			</Grid>
+		</Grid>
+	</Grid>
+
+</UserControl>
