@@ -1,0 +1,522 @@
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.AssemblyReference.cache
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\resources
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.GeneratedMSBuildEditorConfig.editorconfig
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfoInputs.cache
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfo.cs
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CoreCompileInputs.cache
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\references
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\original.dll
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\original.pdb
+D:\holy c\TwoWindows\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\holy c\TwoWindows\obj\Debug\net8.0\refint\TwoWindows.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\TwoWindows.exe
+D:\holy c\TwoWindows\bin\Debug\net8.0\TwoWindows.deps.json
+D:\holy c\TwoWindows\bin\Debug\net8.0\TwoWindows.runtimeconfig.json
+D:\holy c\TwoWindows\bin\Debug\net8.0\TwoWindows.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\TwoWindows.pdb
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Base.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Native.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Avalonia.X11.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\DynamicData.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ReactiveUI.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\SkiaSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Splat.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\System.Reactive.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\holy c\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.dll
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.pdb
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.Up2Date
+D:\holy c\TwoWindows\obj\Debug\net8.0\TwoWindows.genruntimeconfig.cache
+D:\holy c\TwoWindows\obj\Debug\net8.0\ref\TwoWindows.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\TwoWindows.exe
+D:\analonia\TwoWindows\bin\Debug\net8.0\TwoWindows.deps.json
+D:\analonia\TwoWindows\bin\Debug\net8.0\TwoWindows.runtimeconfig.json
+D:\analonia\TwoWindows\bin\Debug\net8.0\TwoWindows.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\TwoWindows.pdb
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Base.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Native.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Avalonia.X11.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\DynamicData.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ReactiveUI.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\SkiaSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Splat.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\System.Reactive.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\analonia\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.AssemblyReference.cache
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\resources
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.GeneratedMSBuildEditorConfig.editorconfig
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfoInputs.cache
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfo.cs
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CoreCompileInputs.cache
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\references
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\original.dll
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\original.pdb
+D:\analonia\TwoWindows\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\analonia\TwoWindows\obj\Debug\net8.0\refint\TwoWindows.dll
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.dll
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.pdb
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.Up2Date
+D:\analonia\TwoWindows\obj\Debug\net8.0\TwoWindows.genruntimeconfig.cache
+D:\analonia\TwoWindows\obj\Debug\net8.0\ref\TwoWindows.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\TwoWindows.exe
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\TwoWindows.deps.json
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\TwoWindows.runtimeconfig.json
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\TwoWindows.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\TwoWindows.pdb
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\DynamicData.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ReactiveUI.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\SkiaSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Splat.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\System.Reactive.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\System.Text.Json.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Programming\VisProg\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.AssemblyReference.cache
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\resources
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfoInputs.cache
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfo.cs
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CoreCompileInputs.cache
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\references
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\original.dll
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\refint\TwoWindows.dll
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.dll
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.pdb
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CopyComplete
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\TwoWindows.genruntimeconfig.cache
+C:\Programming\VisProg\TwoWindows\obj\Debug\net8.0\ref\TwoWindows.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\TwoWindows.exe
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\TwoWindows.deps.json
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\TwoWindows.runtimeconfig.json
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\TwoWindows.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\TwoWindows.pdb
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\DynamicData.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Splat.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.AssemblyReference.cache
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\resources
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfoInputs.cache
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.AssemblyInfo.cs
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CoreCompileInputs.cache
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\references
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\refint\TwoWindows.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.dll
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.pdb
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.csproj.CopyComplete
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\TwoWindows.genruntimeconfig.cache
+C:\Users\zador_fhj\Downloads\TwoWindows\obj\Debug\net8.0\ref\TwoWindows.dll

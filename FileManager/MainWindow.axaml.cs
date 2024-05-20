@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Threading.Tasks;
 
 namespace FileExplorer
 {
@@ -114,6 +115,7 @@ namespace FileExplorer
         private ListBox _listBox; // Элемент управления ListBox для отображения элементов файловой системы
         private Image _imageView; // Элемент управления Image для отображения изображений
         private string _currentDirectory; // Текущий отображаемый каталог
+        private FileSystemWatcher _watcher; // Наблюдатель за файловой системой
 
         // Конструктор
         public MainWindow()
@@ -133,7 +135,38 @@ namespace FileExplorer
             _listBox.PointerEntered += ListBox_PointerEntered;
 
             _currentDirectory = Directory.GetCurrentDirectory(); // Устанавливает текущий каталог
+            SetupWatcher(); // Настраивает наблюдателя за файловой системой
             RefreshList(); // Обновляет список файлов и каталогов
+        }
+
+        // Настраивает наблюдателя за файловой системой
+        private void SetupWatcher()
+        {
+            _watcher = new FileSystemWatcher(_currentDirectory)
+            {
+                NotifyFilter = NotifyFilters.FileName | NotifyFilters.DirectoryName | NotifyFilters.LastWrite
+            };
+
+            _watcher.Created += OnChanged;
+            _watcher.Deleted += OnChanged;
+            _watcher.Renamed += OnRenamed;
+            _watcher.Changed += OnChanged;
+
+            _watcher.EnableRaisingEvents = true;
+        }
+
+        // Обработчик событий изменения файловой системы
+        private void OnChanged(object sender, FileSystemEventArgs e)
+        {
+            // Перезапускает наблюдателя, чтобы учесть изменения в текущем каталоге
+            Avalonia.Threading.Dispatcher.UIThread.InvokeAsync(RefreshList);
+        }
+
+        // Обработчик событий переименования в файловой системе
+        private void OnRenamed(object sender, RenamedEventArgs e)
+        {
+            // Перезапускает наблюдателя, чтобы учесть изменения в текущем каталоге
+            Avalonia.Threading.Dispatcher.UIThread.InvokeAsync(RefreshList);
         }
 
         // Обновляет список файлов и каталогов
@@ -197,6 +230,7 @@ namespace FileExplorer
                 if (Directory.Exists(selectedItemPath))
                 {
                     _currentDirectory = selectedItemPath;
+                    SetupWatcher(); // Настраивает наблюдателя для нового каталога
                     RefreshList(); // Обновляет список при входе в каталог
                 }
                 else if (File.Exists(selectedItemPath))

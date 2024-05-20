@@ -1,0 +1,18 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="120"
+             x:Class="Slider.SliderControl">
+	<Grid Margin="10" >
+		<Grid Margin="10" Opacity="0" Name="Slider" ColumnDefinitions="10*, *" >
+			<Slider VerticalAlignment="Center" Margin="10, 0, 10, 0"/>
+			<Button VerticalAlignment="Center" Grid.Column="1" Name="CloseButton" Click="CloseEvent">
+				<Image Width="20" Source="Assets\close.png"/>
+			</Button>
+		</Grid>
+		<Button Width="100" Height="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Click="OpenEvent" Name="OpenButton">
+			<Image Source="Assets\volume.png"/>
+		</Button>
+	</Grid>
+</UserControl>

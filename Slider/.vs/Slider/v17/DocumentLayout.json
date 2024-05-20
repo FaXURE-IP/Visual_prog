@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AnaloniaUI\\Slider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\slidercontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:slidercontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\slidercontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:slidercontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\slider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:slider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|d:\\analoniaui\\slider\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A1A51BA9-F4C7-4EB2-84F4-354B258DB7C8}|Slider.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.axaml",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T14:17:48.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slider",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\Slider.csproj",
+              "RelativeDocumentMoniker": "Slider.csproj",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\Slider.csproj",
+              "RelativeToolTip": "Slider.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T14:17:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderControl.axaml",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\SliderControl.axaml",
+              "RelativeDocumentMoniker": "SliderControl.axaml",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\SliderControl.axaml",
+              "RelativeToolTip": "SliderControl.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T09:27:39.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderControl.axaml.cs",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\SliderControl.axaml.cs",
+              "RelativeDocumentMoniker": "SliderControl.axaml.cs",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\SliderControl.axaml.cs",
+              "RelativeToolTip": "SliderControl.axaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:27:39.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T09:26:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "D:\\AnaloniaUI\\Slider\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "D:\\AnaloniaUI\\Slider\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:26:46.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

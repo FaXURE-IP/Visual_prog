@@ -1,0 +1,38 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:local="clr-namespace:LogicGatesAvalonia.ViewModels"
+			 xmlns:logicGates="clr-namespace:LogicGatesAvalonia.Controls"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 x:DataType="local:LogicGatesPannelViewModel"
+             x:Class="LogicGatesAvalonia.Views.LogicGatesPannelView">
+
+	<Grid Background="White" ColumnDefinitions="0.5*,1,0.5*">
+		<Canvas Name="GostGatesCanvas">
+			<logicGates:LogicalAndControl Tapped="LogicGateTapped" RenderTransform="scale(0.55)" Canvas.Left="10" Canvas.Top="10"></logicGates:LogicalAndControl>
+			<logicGates:LogicalANDNOTControl Tapped="LogicGateTapped" RenderTransform="scale(0.55)" Canvas.Left="100" Canvas.Top="10"></logicGates:LogicalANDNOTControl>
+			<logicGates:LogicalBufferControl Tapped="LogicGateTapped" RenderTransform="scale(0.55)" Canvas.Top="10" Canvas.Left="190"></logicGates:LogicalBufferControl>
+			<logicGates:LogicalInvertorControl Tapped="LogicGateTapped" Canvas.Top="10" Canvas.Left="280" RenderTransform="scale(0.55)"></logicGates:LogicalInvertorControl>
+			<logicGates:LogicalOrControl Tapped="LogicGateTapped" RenderTransform="scale(0.55)" Canvas.Left="10" Canvas.Top="90"></logicGates:LogicalOrControl>
+			<logicGates:LogicalORNOTControl Tapped="LogicGateTapped" RenderTransform="scale(0.55)" Canvas.Left="100" Canvas.Top="90"></logicGates:LogicalORNOTControl>
+			<logicGates:LogicalXNORControl Tapped="LogicGateTapped" Canvas.Left="190" Canvas.Top="90" RenderTransform="scale(0.55)"></logicGates:LogicalXNORControl>
+			<logicGates:LogicalXORControl Tapped="LogicGateTapped" Canvas.Left="280" Canvas.Top="90" RenderTransform="scale(0.55)"></logicGates:LogicalXORControl>
+		</Canvas>
+
+		<GridSplitter Grid.Column="1"></GridSplitter>
+		
+		<Canvas  Grid.Column="2" Name="AnsiGatesCanvas">
+			<logicGates:ANSILogicalANDControl Tapped="LogicGateTapped" Canvas.Top="10" Canvas.Left="10" RenderTransform="scale(0.5)"></logicGates:ANSILogicalANDControl>
+			<logicGates:ANSILogicalANDNOTControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Top="10" Canvas.Left="120"></logicGates:ANSILogicalANDNOTControl>
+			<logicGates:ANSILogicalBufferControl Tapped="LogicGateTapped" Canvas.Top="10" Canvas.Left="230" RenderTransform="scale(0.5)"></logicGates:ANSILogicalBufferControl>
+			<logicGates:ANSILogicalInvertorControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Left="340" Canvas.Top="10"></logicGates:ANSILogicalInvertorControl>
+			<logicGates:ANSILogicalORControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Left="10" Canvas.Top="90"></logicGates:ANSILogicalORControl>
+			<logicGates:ANSILogicalORNOTControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Top="90" Canvas.Left="120"></logicGates:ANSILogicalORNOTControl>
+			<logicGates:ANSILogicalXNORControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Left="230" Canvas.Top="90"></logicGates:ANSILogicalXNORControl>
+			<logicGates:ANSILogicalXORControl Tapped="LogicGateTapped" RenderTransform="scale(0.5)" Canvas.Top="90" Canvas.Left="340"></logicGates:ANSILogicalXORControl>
+		</Canvas>
+	</Grid>
+	
+	
+</UserControl>

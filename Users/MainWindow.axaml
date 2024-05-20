@@ -1,0 +1,69 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Users.MainWindow"
+        Title="Users"
+		xmlns:local="clr-namespace:Users"
+		x:DataType="local:UsersTable">
+
+	<Window.DataContext>
+		<local:UsersTable/>
+	</Window.DataContext>
+	<StackPanel>
+		<Grid RowDefinitions="*, 10*">
+			<Grid ColumnDefinitions="*, *">
+				<Button Name="AddButton" Margin="10, 0, 0, 0" Grid.Column="0" Click="Add">Add</Button>
+				<StackPanel HorizontalAlignment="Right" Grid.Column="1" Orientation="Horizontal">
+					<RadioButton Name="TableButton" Margin="0, 0, 10, 0" IsChecked="True" GroupName="ViewSwitcher">Table</RadioButton>
+					<RadioButton Name="TreeButton" Margin="0, 0, 10, 0" GroupName="ViewSwitcher">Tree</RadioButton>
+				</StackPanel>
+			</Grid>
+			<DataGrid Grid.Row="1" Name="Table" GridLinesVisibility="All" IsReadOnly="False" ItemsSource="{Binding Users}" KeyDown="DataGrid_KeyDown">
+				<DataGrid.Columns>
+					<DataGridTextColumn Header="id" Binding="{Binding Id}"/>
+					<DataGridTextColumn Header="name" Binding="{Binding Name}"/>
+					<DataGridTextColumn Header="username" Binding="{Binding Username}"/>
+					<DataGridTextColumn Header="email" Binding="{Binding Email}"/>
+					<DataGridTextColumn Header="street" Binding="{Binding Address.Street}" />
+					<DataGridTextColumn Header="suite" Binding="{Binding Address.Suite}" />
+					<DataGridTextColumn Header="city" Binding="{Binding Address.City}" />
+					<DataGridTextColumn Header="zipcode" Binding="{Binding Address.Zipcode}" />
+					<DataGridTextColumn Header="lat" Binding="{Binding Address.Geo.Lat}" />
+					<DataGridTextColumn Header="lng" Binding="{Binding Address.Geo.Lng}" />
+					<DataGridTextColumn Header="company name" Binding="{Binding Company.Name}" />
+					<DataGridTextColumn Header="catch phrase" Binding="{Binding Company.CatchPhrase}" />
+					<DataGridTextColumn Header="bs" Binding="{Binding Company.Bs}" />
+				</DataGrid.Columns>
+			</DataGrid>
+		</Grid>
+		<TreeView Name="Tree" ItemsSource="{Binding Users}">
+			<TreeView.ItemTemplate>
+				<DataTemplate>
+					<TreeViewItem Header="{Binding Id}">
+						<TreeViewItem Header="{Binding Name}"/>
+						<TreeViewItem Header="{Binding Username}"/>
+						<TreeViewItem Header="{Binding Email}"/>
+						<TreeViewItem Header="Address">
+							<TreeViewItem Header="{Binding Address.Street}"/>
+							<TreeViewItem Header="{Binding Address.City}"/>
+							<TreeViewItem Header="{Binding Address.Zipcode}"/>
+							<TreeViewItem Header="Geo">
+								<TreeViewItem Header="{Binding Address.Geo.Lat}"/>
+								<TreeViewItem Header="{Binding Address.Geo.Lng}"/>
+							</TreeViewItem>
+						</TreeViewItem>
+						<TreeViewItem Header="{Binding Phone}"/>
+						<TreeViewItem Header="{Binding Website}"/>
+						<TreeViewItem Header="Company">
+							<TreeViewItem Header="{Binding Company.Name}"/>
+							<TreeViewItem Header="{Binding Company.CatchPhrase}"/>
+							<TreeViewItem Header="{Binding Company.Bs}"/>
+						</TreeViewItem>
+					</TreeViewItem>
+				</DataTemplate>
+			</TreeView.ItemTemplate>
+		</TreeView>
+	</StackPanel>
+</Window>

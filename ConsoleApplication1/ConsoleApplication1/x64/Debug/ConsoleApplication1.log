@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(219,38): warning C4101: exc: неиспользованная локальная переменная
+C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(322,34): warning C4101: exc: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\readg\OneDrive\Рабочий стол\Visual_prog\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
